@@ -1,0 +1,20 @@
+посмотреть как работают TCPDump
+arp 
+ss 
+netstat
+ip
+зачем маска подсети
+ip route
+BGP OSPF
+Как настроить сеть в UBUNTU (netplan) 20.04 и выше
+
+-------------------------Plan--------------------------------------
+ 1. Git
+ 1. Docker 
+ 2. Ansible
+ 3. Nginx
+ 4. Postgresql
+ 5. Prometheus monitoring
+ 6. Bash скрипты
+
+ 
